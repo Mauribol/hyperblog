@@ -10,4 +10,5 @@ un blog increible para el curso de [Git y Github](https://platzi.com/cursos/git-
 - Algunos trucos.
 - Estudiante: Ing. Mauricio Bolaños
 - se vieron ejemplos en windows, linux y mac
+- disponible para todas las edades
 Como recordatorio **Este readme.md es un ejemplo.** Concideralo al leerlo...
