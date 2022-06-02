@@ -8,5 +8,6 @@ un blog increible para el curso de [Git y Github](https://platzi.com/cursos/git-
 - El flujo de trabajo en Github.
 - Buenas prácticas.
 - Algunos trucos.
+- Estudiante: Ing. Mauricio Bolaños
 
 Como recordatorio **Este readme.md es un ejemplo.** Concideralo al leerlo...
